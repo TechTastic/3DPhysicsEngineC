@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 // Simulation
 
@@ -9,6 +8,9 @@
 
 int main() {
     printf("Hello World!\n");
+
+    char name[] = "Michael";
+    printf("My name is %s\n", name);
 
     return 0;
 }
