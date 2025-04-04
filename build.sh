@@ -1,4 +1,4 @@
 #!/bin/bash
 
 mkdir -p "build"
-gcc src/main.c src/vectors.c -o build/main.exe -lm
+gcc src/main.c libs/mathc/mathc.c -o build/main.exe -lm

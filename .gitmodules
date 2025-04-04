@@ -1,0 +1,3 @@
+[submodule "libs/mathc"]
+	path = libs/mathc
+	url = https://github.com/felselva/mathc
